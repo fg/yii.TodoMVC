@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS `todolist` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=1;
 
 
-demo: http://fatihgursoy.com/yii_todomvc/todo
+
 contact: https://www.facebook.com/fgursoy0034
 
 
